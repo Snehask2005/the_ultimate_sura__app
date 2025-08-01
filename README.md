@@ -1,23 +1,22 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# The Ultimate Sura App 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: George & Benny
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: S K Sneha - TKM College of Engineering
+- Member 2: Shikha Rajeev - TKM College of Engineering
 
 ### Project Description
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
