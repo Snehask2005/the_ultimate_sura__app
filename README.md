@@ -41,14 +41,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-02 at 07 57 03_1f17d8e7](https://github.com/user-attachments/assets/43a81071-ade3-4343-bf25-67fe43678396)
+Home page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-02 at 07 57 03_66bf8b35](https://github.com/user-attachments/assets/b1422a9d-f022-4c84-bf1b-8b9243ca2441)
+"your month your sura"
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-02 at 07 57 04_fedf4d44](https://github.com/user-attachments/assets/29fa707b-f46c-4144-b1d6-e9acf12cf1c3)
+"sura chat bot"
 
 
 
