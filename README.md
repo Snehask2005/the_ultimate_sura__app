@@ -16,11 +16,10 @@
 An interactive website that celebrates the legend of Sura through memes, interactive tools, and playful features.
 
 ### The Problem (that doesn't exist)
-In the wild sea of Instagram reels, meme pages, and archived chaos, one thing is certain, Sura memes are legendary. It's hard to find good Sura memes among thousands online. We wanted to solve this by creating a one-stop app for all things Sura — memes.
+Sura memes are buried under piles of random reels and meme pages. Finding them is like searching for gold in a haystack. It’s an emotional struggle.
 
 ### The Solution (that nobody asked for)
-That’s why we made The Ultimate Sura App, a single place for all your favorite Sura memes. No more scrolling for hours. Just open the app and enjoy.
-From meme collections to fun features like monthly Sura predictions, a chatbot, and even a forehead flicker cam. it's all here in one place.
+We made The Ultimate Sura App – your one-stop shrine for Sura memes. From carefully handpicked memes to Sura-style monthly predictions, a sarcastic chatbot, and even a forehead-flicker Sura selector.
 Simple. Fun. Pure Sura.
 
 ## Technical Details
