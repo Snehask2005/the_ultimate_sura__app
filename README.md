@@ -32,10 +32,14 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+
+git clone https://github.com/your-username/your-month-your-sura.git
+cd your-month-your-sura
+npm install
 
 # Run
-[commands]
+npm start
+
 
 ### Project Documentation
 For Software:
