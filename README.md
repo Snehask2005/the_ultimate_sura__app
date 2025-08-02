@@ -16,10 +16,12 @@
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
-
+In the wild sea of Instagram reels, meme pages, and archived chaos, one thing is certain, Sura memes are legendary. It's hard to find good Sura memes among thousands online. We wanted to solve this by creating a one-stop app for all things Sura — memes.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+That’s why we made The Ultimate Sura App, a single place for all your favorite Sura memes. No more scrolling for hours. Just open the app and enjoy.
+From meme collections to fun features like monthly Sura predictions, a chatbot, and even a forehead flicker cam. it's all here in one place.
+Simple. Fun. Pure Sura.
 
 ## Technical Details
 ### Technologies/Components Used
